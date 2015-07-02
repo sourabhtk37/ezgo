@@ -23,3 +23,5 @@ ezgo-misc/freedesktop.org.xml usr/share/ezgo/ezgo-misc/
 ezgo-misc/translations/* usr/share/ezgo/ezgo-misc/translations
 ezgo-misc/ktuberling/zh_TW/* usr/share/kde4/apps/ktuberling/sounds/zh_TW/
 ezgo-misc/ktuberling/* usr/share/kde4/apps/ktuberling/sounds/
+ezgo-misc/back.sh usr/share/ezgo/recover
+ezgo-misc/skel.sh usr/share/ezgo/recover
